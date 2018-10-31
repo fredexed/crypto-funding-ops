@@ -7,7 +7,7 @@ Taking inspiration from Nadia Eghbal's [Lemonade Stand](https://github.com/nayaf
 1. Foundations/Grants
 2. Bounties
 3. Crowdfunding
-4. Non-crypto-specific grants
+4. Non-crypto-specific grants and fellowships
 
 --------
 
@@ -16,7 +16,7 @@ Taking inspiration from Nadia Eghbal's [Lemonade Stand](https://github.com/nayaf
 ### Ethereum Foundation 
 https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
 
-*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They specifically fund projects that are committed to advancing the Ethereum ecosystem, which is a rather broad mandate. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects they hope to see apply*
+*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They specifically fund projects that are committed to advancing the Ethereum ecosystem, which is a rather broad mandate. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
 
 ### Ethereum Community Fund
 https://ecf.network/
@@ -42,4 +42,10 @@ https://protocol.ai/blog/ann-research-rfp/
 
 ## Non-crypto-specific grants
 
+### Microgrants List
 See Nadia Ehgbal's exhaustive list of [microgrant programs](https://github.com/nayafia/microgrants)
+
+### Lightspeed Fellowship Program
+https://lsvp.com/programs/summer-fellowship/
+
+*Lightspeed grant around 20 Summer Fellowships each year to students or recent grads who are interested in starting a technology company over a summer. Each participant gets $15k and the team (minimum team of 2) gets an additional $5k. Lightspeed have been active in the crypto investment space, however this this is not an investment, this is a grant; Lightspeed get no equity in the company. Applications are rolling from November to February each year.*
