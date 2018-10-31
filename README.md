@@ -28,15 +28,32 @@ https://protocol.ai/blog/ann-research-rfp/
 
 *The first RFPs solicit improvements to components used in Filecoin. Future RFPs will fund problems across PL's entire stack of protocols, from Multiformats to Filecoin, and they also welcome open problems and suggestions for work that they may be interested in funding. The RFP Program has an inital commitment of $5M to fund multiple rounds of grants ranging from $5,000 to $2M. Check out active RFPs [here](https://github.com/protocol/research-RFPs). Each RFP references an [Open Problem Statement](https://github.com/protocol/research/issues) in Protocol Labs' public research repo. Application instructions can be found [here](https://github.com/protocol/research-RFPs/blob/master/RFP-application-instructions.md).*
 
-### 
+### Zcash Foundation Grants
+https://github.com/ZcashFoundation/GrantProposals-2018Q2/
+
+*Zcash Foundation Grants are distributed twice annually and have a [broad scope](https://github.com/ZcashFoundation/GrantProposals-2018Q2/). See [here](https://github.com/ZcashFoundation/ZcashFoundation/wiki/Grant-Project-Ideas) for ideas. The foundation emphasizes that they are especially interested in funding proposals that are public goods and not obviously monetizable. The program had a 2017 Q4 budget of $80,000, funded by the Zcash Foundation, which they increased to $250,000 in 2018 Q2, funded by the Zcash Foundation and the Blockchain Institute.*
+
+### Dash Budget Vote Proposal Tracker
+https://dashnexus.org/leaderboard
+
+*Dash has a large budget of ~$1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by ~7% roughly every year). Any money that’s not allocated that month is burned to reduce inflation. Like the other programs, anybody can create a proposal, but they’re incentivized to go through the pre-proposal process first: a formal proposal costs 5 Dash to open (~$1000 USD at today’s rate, destroyed upon receipt). The fee is meant to discourage spam; many proposals include fee reimbursement as part of their budget. Only “masternodes” can vote on Dash proposals. Masternodes are individuals who host “full” wallets in exchange for money, which have more functionality than a “regular” wallet, and require locking 1000 Dash (~$200K USD) in their wallet. In other words, they’re people with a significant stake in Dash’s future. At the time of this writing, there are 4,788 masternodes. Reputation plays a big role in who gets funded (for an example, see the quote and its thread below). Applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum.*
+
+*Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Because proposals are competing for a finite monthly budget, it’s possible for a proposal to meet the vote criteria but not be funded, if not enough funding is available. Funding is prioritized based on higher net votes and the amount requested. However, winning-but-not-funded proposals can remain active for another monthly cycle, and may be funded then. While there are no formal accountability requirements, [Dash Watch](https://www.dashwatch.org/) was created to provide more insight and monitoring into funded proposals.*
 
 -------
 
 ## Bounties
 
+
+
 ------
 
 ## Crowdfunding
+
+### Monero Forum Funding System (FFS)
+https://forum.getmonero.org/8/funding-required
+
+*This could be classified as a "grant" but operates more as a crowdfunding mechanism. Anybody can propose an idea in the “Ideas” section, and the community is encouraged to discuss whether that idea would be valuable to work on. Successfully vetted ideas move to the next stage, “Open Tasks”, where anybody who’s interested in working on that idea can pitch themselves as the right person for the job. After a team is assigned to the proposal, it moves into the “Funding Required” stage, to raise funds for work. Like Kickstarter, this process is entirely crowdfunded: anybody can donate Monero towards these projects. After a proposal is funded, it moves to the “Work in Progress” stage. Funds are held in escrow and disbursed to the recipient as specific milestones are met. Grantees are expected to provide regular progress reports at this stage. Finally, after everything has been funded, and work has been completed, the proposal is archived in the “Completed Tasks” section.*
 
 ------
 
