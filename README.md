@@ -16,7 +16,7 @@ Taking inspiration from Nadia Eghbal's [Lemonade Stand](https://github.com/nayaf
 ### Ethereum Foundation 
 https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
 
-*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They specifically fund projects that are committed to advancing the Ethereum ecosystem, which is a rather broad mandate. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
+*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They specifically fund projects that are committed to advancing the Ethereum ecosystem, which is a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
 
 ### Ethereum Community Fund
 https://ecf.network/
@@ -40,10 +40,20 @@ https://dashnexus.org/leaderboard
 
 *Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Funding is prioritized based on higher net votes and the amount requested. However, winning-but-not-funded proposals can remain active for another monthly cycle, and may be funded then. While there are no formal accountability requirements, [Dash Watch](https://www.dashwatch.org/) was created to provide more insight and monitoring into funded proposals.*
 
+### The Stable Fund
+https://stable.fund/
+
+*The Stable Fund is an investment fund started by L4, in partnership with MakerDAO. They aim to support startups using using Dai or Maker infrastructure as a core component. The Stable Fund offers no-strings attached (equity-free) grants of up to $25k and equity funding of up to $200k.*
+
 ### MakerDAO Core Community Development Group (CCDG)
 https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3
 
 *A series of initiatives (fund grants, bounties, community development rewards) designed to create direct incentives and support structures to allow people to participate in and contribute to the success the Dai Stable Coin platform.*
+
+### Aragon Nest
+https://github.com/aragon/nest
+
+*Aragon Nest was [launched](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/) to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum. Similar to MakerDAO's relationship with L4 Ventures in the the Stable Fund, Aragon Nest is sheparded by Placeholder VC (Chris Burniske & Joel Monegro). See the current [proposals for grants](https://github.com/aragon/nest/issues) and [requests for funding](https://github.com/aragon/nest/pulls).
 
 -------
 
@@ -64,7 +74,12 @@ https://forum.getmonero.org/8/funding-required
 ## Non-crypto-specific grants
 
 ### Microgrants List
-See Nadia Ehgbal's exhaustive list of [microgrant programs](https://github.com/nayafia/microgrants)
+See Nadia Ehgbal's exhaustive list of [microgrant programs](https://github.com/nayafia/microgrants).
+
+### IPE NCC Community Projects Fund
+https://www.ripe.net/support/cpf
+
+*The RIPE NCC Fund sets aside 250,000 EUR annually to support projects of value to the operation and resilience of the Internet, with a focus on tools and services benefitting the technical community in their [service region](https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region). See [here](https://www.ripe.net/support/cpf/funding-recipients-2018) for previously funded projects.*
 
 ### Lightspeed Fellowship Program
 https://lsvp.com/programs/summer-fellowship/
