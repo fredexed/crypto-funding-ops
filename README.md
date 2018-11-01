@@ -36,9 +36,7 @@ https://github.com/ZcashFoundation/GrantProposals-2018Q2/
 ### Dash Budget Vote Proposal Tracker
 https://dashnexus.org/leaderboard
 
-*Dash has a large budget of $1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by 7% roughly every year). A formal proposal costs 5 Dash to open ($1000 USD at today’s rate, destroyed upon receipt). The fee is meant to discourage spam; many proposals include fee reimbursement as part of their budget. Only “masternodes” can vote on Dash proposals. Masternodes are individuals who host “full” wallets in exchange for money, which have more functionality than a “regular” wallet, and require locking 1000 Dash ($200K USD) in their wallet. Reputation plays a big role in who gets funded: applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum.*
-
-*Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Funding is prioritized based on higher net votes and the amount requested. However, winning-but-not-funded proposals can remain active for another monthly cycle, and may be funded then. While there are no formal accountability requirements, [Dash Watch](https://www.dashwatch.org/) was created to provide more insight and monitoring into funded proposals.*
+*Dash has a large budget of $1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by 7% roughly every year. Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Reputation plays a big role in who gets funded: applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum. You can check out [Dash Watch](https://www.dashwatch.org/) to see examples of funded proposals.*
 
 ### The Stable Fund
 https://stable.fund/
@@ -55,6 +53,11 @@ https://github.com/aragon/nest
 
 *Aragon Nest was [launched](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/) to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum. Similar to MakerDAO's relationship with L4 Ventures in the the Stable Fund, Aragon Nest is sheparded by Placeholder VC (Chris Burniske & Joel Monegro). See the current [proposals for grants](https://github.com/aragon/nest/issues) and [requests for funding](https://github.com/aragon/nest/pulls).
 
+### Social Alpha Foundation
+https://www.socialalphafoundation.org/saf-grant/
+
+*Co-founded by Jehan Chu of Kenetic Capital, Social Alpha Foundation offers grants ranging from $10k - 100,000k. There are two categories of grants: the education grant, which supports organizations, collectives and individuals that offer blockchain education with a focus on social impact and the application grant, for non-commercial blockchain applications that tackle social welfare issues with a focus on Public Health, Environment or Education.*
+
 -------
 
 ## Bounties
@@ -67,7 +70,7 @@ https://github.com/aragon/nest
 ### Monero Forum Funding System (FFS)
 https://forum.getmonero.org/8/funding-required
 
-*This could be classified as a "grant" but operates more as a crowdfunding mechanism. Anybody can propose an idea in the “Ideas” section, and the community is encouraged to discuss whether that idea would be valuable to work on. Successfully vetted ideas move to the next stage, “Open Tasks”, where anybody who’s interested in working on that idea can pitch themselves as the right person for the job. After a team is assigned to the proposal, it moves into the “Funding Required” stage, to raise funds for work. Like Kickstarter, this process is entirely crowdfunded: anybody can donate Monero towards these projects. After a proposal is funded, it moves to the “Work in Progress” stage. Funds are held in escrow and disbursed to the recipient as specific milestones are met. Grantees are expected to provide regular progress reports at this stage. Finally, after everything has been funded, and work has been completed, the proposal is archived in the “Completed Tasks” section.*
+*This could be classified as a "grant" but operates more as a crowdfunding mechanism: anybody can donate Monero towards these projects. Applicants must move through a multi-step and openly-vetted process. If the proposal is successfully granted, funds are held in escrow and disbursed to the recipient as specific milestones are met.*
 
 ------
 
