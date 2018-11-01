@@ -16,7 +16,7 @@ Taking inspiration from Nadia Eghbal's [Lemonade Stand](https://github.com/nayaf
 ### Ethereum Foundation 
 https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
 
-*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They specifically fund projects that are committed to advancing the Ethereum ecosystem, which is a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
+*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They fund projects that are committed to advancing the Ethereum ecosystem; a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
 
 ### Ethereum Community Fund
 https://ecf.network/
