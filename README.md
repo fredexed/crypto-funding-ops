@@ -62,6 +62,10 @@ https://www.socialalphafoundation.org/saf-grant/
 
 ## Bounties
 
+### ETH PRIZE
+http://ethprize.io/
+
+*Issuing bounties to solve the Ethereum ecosystem's biggest challenges. There are currently two bounties available, for $250k each.*
 
 ------
 
