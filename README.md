@@ -36,14 +36,18 @@ https://github.com/ZcashFoundation/GrantProposals-2018Q2/
 ### Dash Budget Vote Proposal Tracker
 https://dashnexus.org/leaderboard
 
-*Dash has a large budget of $1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by 7% roughly every year). Any money that’s not allocated that month is burned to reduce inflation. Like the other programs, anybody can create a proposal, but they’re incentivized to go through the pre-proposal process first: a formal proposal costs 5 Dash to open ($1000 USD at today’s rate, destroyed upon receipt). The fee is meant to discourage spam; many proposals include fee reimbursement as part of their budget. Only “masternodes” can vote on Dash proposals. Masternodes are individuals who host “full” wallets in exchange for money, which have more functionality than a “regular” wallet, and require locking 1000 Dash ($200K USD) in their wallet. In other words, they’re people with a significant stake in Dash’s future. At the time of this writing, there are 4,788 masternodes. Reputation plays a big role in who gets funded (for an example, see the quote and its thread below). Applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum.*
+*Dash has a large budget of $1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by 7% roughly every year). A formal proposal costs 5 Dash to open ($1000 USD at today’s rate, destroyed upon receipt). The fee is meant to discourage spam; many proposals include fee reimbursement as part of their budget. Only “masternodes” can vote on Dash proposals. Masternodes are individuals who host “full” wallets in exchange for money, which have more functionality than a “regular” wallet, and require locking 1000 Dash ($200K USD) in their wallet. Reputation plays a big role in who gets funded: applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum.*
 
-*Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Because proposals are competing for a finite monthly budget, it’s possible for a proposal to meet the vote criteria but not be funded, if not enough funding is available. Funding is prioritized based on higher net votes and the amount requested. However, winning-but-not-funded proposals can remain active for another monthly cycle, and may be funded then. While there are no formal accountability requirements, [Dash Watch](https://www.dashwatch.org/) was created to provide more insight and monitoring into funded proposals.*
+*Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Funding is prioritized based on higher net votes and the amount requested. However, winning-but-not-funded proposals can remain active for another monthly cycle, and may be funded then. While there are no formal accountability requirements, [Dash Watch](https://www.dashwatch.org/) was created to provide more insight and monitoring into funded proposals.*
+
+### MakerDAO Core Community Development Group (CCDG)
+https://medium.com/makerdao/announcing-the-makerdao-core-community-development-initiative-d388bfba88e3
+
+*A series of initiatives (fund grants, bounties, community development rewards) designed to create direct incentives and support structures to allow people to participate in and contribute to the success the Dai Stable Coin platform.*
 
 -------
 
 ## Bounties
-
 
 
 ------
