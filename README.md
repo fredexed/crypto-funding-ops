@@ -28,15 +28,10 @@ https://protocol.ai/blog/ann-research-rfp/
 
 *The first RFPs solicit improvements to components used in Filecoin. Future RFPs will fund problems across PL's entire stack of protocols, from Multiformats to Filecoin, and they also welcome open problems and suggestions for work that they may be interested in funding. The RFP Program has an inital commitment of $5M to fund multiple rounds of grants ranging from $5,000 to $2M. Check out active RFPs [here](https://github.com/protocol/research-RFPs). Each RFP references an [Open Problem Statement](https://github.com/protocol/research/issues) in Protocol Labs' public research repo. Application instructions can be found [here](https://github.com/protocol/research-RFPs/blob/master/RFP-application-instructions.md).*
 
-### Zcash Foundation Grants
-https://github.com/ZcashFoundation/GrantProposals-2018Q2/
+### Aragon Nest
+https://github.com/aragon/nest
 
-*Zcash Foundation Grants are distributed twice annually and have a [broad scope](https://github.com/ZcashFoundation/GrantProposals-2018Q2/). See [here](https://github.com/ZcashFoundation/ZcashFoundation/wiki/Grant-Project-Ideas) for ideas. The foundation emphasizes that they are especially interested in funding proposals that are public goods and not obviously monetizable. The program had a 2017 Q4 budget of $80,000, funded by the Zcash Foundation, which they increased to $250,000 in 2018 Q2, funded by the Zcash Foundation and the Blockchain Institute.*
-
-### Dash Budget Vote Proposal Tracker
-https://dashnexus.org/leaderboard
-
-*Dash has a large budget of $1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by 7% roughly every year. Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Reputation plays a big role in who gets funded: applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum. You can check out [Dash Watch](https://www.dashwatch.org/) to see examples of funded proposals.*
+*Aragon Nest was [launched](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/) to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum. Similar to MakerDAO's relationship with L4 Ventures in the the Stable Fund, Aragon Nest is sheparded by Placeholder VC (Chris Burniske & Joel Monegro). See the current [proposals for grants](https://github.com/aragon/nest/issues) and [requests for funding](https://github.com/aragon/nest/pulls).
 
 ### The Stable Fund
 https://stable.fund/
@@ -48,10 +43,20 @@ https://medium.com/makerdao/announcing-the-makerdao-core-community-development-i
 
 *A series of initiatives (fund grants, bounties, community development rewards) designed to create direct incentives and support structures to allow people to participate in and contribute to the success the Dai Stable Coin platform.*
 
-### Aragon Nest
-https://github.com/aragon/nest
+### Zcash Foundation Grants
+https://github.com/ZcashFoundation/GrantProposals-2018Q2/
 
-*Aragon Nest was [launched](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/) to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum. Similar to MakerDAO's relationship with L4 Ventures in the the Stable Fund, Aragon Nest is sheparded by Placeholder VC (Chris Burniske & Joel Monegro). See the current [proposals for grants](https://github.com/aragon/nest/issues) and [requests for funding](https://github.com/aragon/nest/pulls).
+*Zcash Foundation Grants are distributed twice annually and have a [broad scope](https://github.com/ZcashFoundation/GrantProposals-2018Q2/). See [here](https://github.com/ZcashFoundation/ZcashFoundation/wiki/Grant-Project-Ideas) for ideas. The foundation emphasizes that they are especially interested in funding proposals that are public goods and not obviously monetizable. The program had a 2017 Q4 budget of $80,000, funded by the Zcash Foundation, which they increased to $250,000 in 2018 Q2, funded by the Zcash Foundation and the Blockchain Institute.*
+
+### Dash Budget Vote Proposal Tracker
+https://dashnexus.org/leaderboard
+
+*Dash has a large budget of $1M+ allocated monthly to this program (10% of Dash’s block rewards are earmarked for this program, decreasing by 7% roughly every year. Proposals receive funding if “Net Votes” (total 'Yes' minus total 'No' votes) exceeds 10% of all active masternodes. Reputation plays a big role in who gets funded: applicants are encouraged to build a relationship with the community, demonstrate that they’re the right person for the job, and drum up support for their proposal in the pre-proposal forum. You can check out [Dash Watch](https://www.dashwatch.org/) to see examples of funded proposals.*
+
+### Interchain Foundation
+https://interchain.io/
+
+*The Interchain Foundation supports development around the Cosmos ecosystem. Currently, the foundation operates on an ad-hoc basis but will evolve into a fully-formed program towards the end of 2018, after the launch of the Cosmos Network.*
 
 ### Social Alpha Foundation
 https://www.socialalphafoundation.org/saf-grant/
@@ -67,6 +72,11 @@ http://ethprize.io/
 
 *Issuing bounties to solve the Ethereum ecosystem's biggest challenges. There are currently two bounties available, for $250k each.*
 
+### Status Open Bounty
+https://openbounty.status.im/
+
+*Status has an [active bounties platform](https://openbounty.status.im/app#/) that is supported by a $1m pledge in Nov 2017 to support projects and developers in the space.*
+
 ------
 
 ## Crowdfunding
@@ -78,10 +88,15 @@ https://forum.getmonero.org/8/funding-required
 
 ------
 
-## Non-crypto-specific grants
+## Non-crypto-specific funding
 
 ### Microgrants List
 See Nadia Ehgbal's exhaustive list of [microgrant programs](https://github.com/nayafia/microgrants).
+
+### Open Technology Fund
+https://www.opentech.fund/funds/
+
+*The Open Technology Fund is a project of Radio Free Asia, a 501(c)(3) public charity that believes everyone has the right to freedom of opinion and expression online. They have a range of funds and deadlines - most supported efforts receive $50k - $200k. Check out previously supported projects in their [annual letters](https://www.opentech.fund/results/annual-reports/).*
 
 ### IPE NCC Community Projects Fund
 https://www.ripe.net/support/cpf
@@ -92,3 +107,8 @@ https://www.ripe.net/support/cpf
 https://lsvp.com/programs/summer-fellowship/
 
 *Lightspeed grant around 20 Summer Fellowships each year to students or recent grads who are interested in starting a technology company over a summer. Each participant gets $15k and the team (minimum team of 2) gets an additional $5k. Lightspeed have been active in the crypto investment space, however this this is not an investment, this is a grant; Lightspeed get no equity in the company. Applications are rolling from November to February each year.*
+
+### Shuttleworth Foundation Flash Grants
+https://www.shuttleworthfoundation.org/fellows/flash-grants/
+
+*Twice a year, the Shuttleworth Foundation award a number of small grants to a collection of social change agents, no strings attached, in support of their work. Recipients are selected based on nominations from our Fellows. Each award is worth $5,000.*
