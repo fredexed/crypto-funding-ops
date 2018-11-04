@@ -13,6 +13,12 @@ Taking inspiration from Nadia Eghbal's [Lemonade Stand](https://github.com/nayaf
 
 ## Grants
 
+### UNICEF Innovation Fund
+http://unicefstories.org/blockchaincall/
+
+*The UNICEF Innovation Fund is making $50-90K equity-free investments to provide seed financing to for-profit technology start-ups that have the potential to benefit humanity. The fund is looking to invest in a group of companies developing software solutions on open blockchains, specifically in the areas of smart contracts, analyzing data directly from public blockchains, tokenization and mining. Check out the Imnnovation Fund's FAQs [here](https://drive.google.com/file/d/1oWwXItFhuMFh-Ce_ottdrMEezR3xTPzS/view).*
+
+
 ### Ethereum Foundation 
 https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
 
@@ -62,6 +68,11 @@ https://interchain.io/
 https://www.socialalphafoundation.org/saf-grant/
 
 *Co-founded by Jehan Chu of Kenetic Capital, Social Alpha Foundation offers grants ranging from $10k - 100,000k. There are two categories of grants: the education grant, which supports organizations, collectives and individuals that offer blockchain education with a focus on social impact and the application grant, for non-commercial blockchain applications that tackle social welfare issues with a focus on Public Health, Environment or Education.*
+
+### Blockstack Public Benefit Corporation
+https://requestforsocialnetworks.com/
+
+*The Blockstack Public Benefit Corporation is committing $1M to support teams building social network dapps using the Blockstack infrastucture. Each developer or team that is accepted will receive $100K.*
 
 -------
 
