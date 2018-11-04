@@ -74,6 +74,16 @@ https://requestforsocialnetworks.com/
 
 *The Blockstack Public Benefit Corporation is committing $1M to support teams building social network dapps using the Blockstack infrastucture. Each developer or team that is accepted will receive $100K.*
 
+### Stellar Partnership Grant Program
+https://www.stellar.org/lumens/stellar-partnership-grant-program/
+
+*This grant program aims to support projects who integrate with the Stellar network and pursue the improvement of the global financial landscape and promote financial inclusion. The Stellar Development Foundation has allocated 25 billion total lumens to this program (a monster $6b pool at these prices?!).*
+
+### The Request Fund
+https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43
+
+*Request Network has pledged $30 million (in $REQ & $ETH) over the next 5 years to the Request Fund for projects based around mobile apps to create, detect, and pay requests. See [here](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43) for a wishlist from the Request network team and the application form [here](https://request.network/#/request-for-projects).
+
 -------
 
 ## Bounties
