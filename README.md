@@ -6,8 +6,9 @@ Taking inspiration from Nadia Eghbal's [Lemonade Stand](https://github.com/nayaf
 
 1. Foundations/Grants
 2. Bounties
-3. Crowdfunding
-4. Non-crypto-specific grants and fellowships
+3. Bug Bounties
+4. Crowdfunding
+5. Non-crypto-specific grants and fellowships
 
 --------
 
@@ -97,6 +98,13 @@ http://ethprize.io/
 https://openbounty.status.im/
 
 *Status has an [active bounties platform](https://openbounty.status.im/app#/) that is supported by a $1m pledge in Nov 2017 to support projects and developers in the space.*
+
+------
+
+## Bug Bounties
+
+### Augur
+https://hackerone.com/augurproject
 
 ------
 
