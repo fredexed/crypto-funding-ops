@@ -86,6 +86,7 @@ https://blog.request.network/request-network-project-update-january-19th-2018-an
 *Request Network has pledged $30 million (in $REQ & $ETH) over the next 5 years to the Request Fund for projects based around mobile apps to create, detect, and pay requests. See [here](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43) for a wishlist from the Request network team and the application form [here](https://request.network/#/request-for-projects).
 
 ### NEM Community Fund
+https://nem.io/community-fund/
 
 *As of September 2018, funding process is undergoing a restructure. The funding pool consists of ~300 million NEM ($28M at current prices) and is largely focused on the Asia-Pacific region.*
 
