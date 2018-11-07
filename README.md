@@ -19,6 +19,10 @@ http://unicefstories.org/blockchaincall/
 
 *The UNICEF Innovation Fund is making $50-90K equity-free investments to provide seed financing to for-profit technology start-ups that have the potential to benefit humanity. The fund is looking to invest in a group of companies developing software solutions on open blockchains, specifically in the areas of smart contracts, analyzing data directly from public blockchains, tokenization and mining. Check out the Imnnovation Fund's FAQs [here](https://drive.google.com/file/d/1oWwXItFhuMFh-Ce_ottdrMEezR3xTPzS/view).*
 
+### Samsung NEXT Stack Zero Grant
+https://samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/
+
+*Samsung NEXT are offering grants ranging from $25k-75k to early-stage teams building decentralised technologies. Head directly to the application form [here](https://samsungnexteurope.typeform.com/to/DtpcWw).
 
 ### Ethereum Foundation 
 https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
