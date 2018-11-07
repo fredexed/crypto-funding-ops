@@ -1,5 +1,5 @@
 # A guide for funding opportunities in the crypto ecosystem
-Taking inspiration from Nadia Eghbal's list of [microgrants](https://github.com/nayafia/microgrants), this document aims to provide a list of all the ways people can get funded for crypto work who cannot/do not want to go the VC/ecosystem fund route or (admirably) the ICO route.
+Taking inspiration from Nadia Eghbal's list of [microgrants](https://github.com/nayafia/microgrants), this document aims to provide a list of all the ways people can get funded for crypto work without giving away equity or issuing a token. 
 
 ---------
 ## Table of Contents
