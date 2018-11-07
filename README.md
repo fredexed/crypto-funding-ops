@@ -39,6 +39,11 @@ https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official web
 
 *The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They fund projects that are committed to advancing the Ethereum ecosystem; a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
 
+### ConsenSys Grants
+https://pages.consensys.net/consensys-grants
+
+*ConsenSys AG unveiled at DevCon IV the launch of “ConsenSys Grants,” a $500,000 USD fund that will be dispersed in amounts of $10,000 to $25,0000 via [Gitcoin](https://gitcoin.co/). The launch of this grants program is an effort to encourage the growth of the Ethereum infrastructure layer with bounties and grants for open source projects. Timing for the rollout of the newly launched grants program is set to begin in early 2019 and will continue throughout the end of year. Applicants will have the opportunity to apply under categories, which will be determined by the wider Ethereum community in an effort to support decentralized decision making. For now, ConsenSys will support projects that focus on infrastructure, research, user experience, design, interoperability, and developer tools. To learn more, [sign up here](https://pages.consensys.net/consensys-grants) for a dedicated newsletter to keep up to date on grant recipients and projects.*
+
 ### Protocol Labs Request For Proposals (RFP) Program
 https://protocol.ai/blog/ann-research-rfp/
 
