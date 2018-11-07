@@ -22,7 +22,7 @@ http://unicefstories.org/blockchaincall/
 ### Samsung NEXT Stack Zero Grant
 https://samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/
 
-*Samsung NEXT are offering grants ranging from $25k-75k to early-stage teams building decentralised technologies. Head directly to the application form [here](https://samsungnexteurope.typeform.com/to/DtpcWw).
+*Samsung NEXT are offering grants ranging from $25k-75k to early-stage teams building decentralised technologies. Head directly to the application form [here](https://samsungnexteurope.typeform.com/to/DtpcWw).*
 
 ### Ethereum Foundation 
 https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
