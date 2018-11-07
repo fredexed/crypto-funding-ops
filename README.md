@@ -42,7 +42,7 @@ https://protocol.ai/blog/ann-research-rfp/
 ### Aragon Nest
 https://github.com/aragon/nest
 
-*Aragon Nest was [launched](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/) to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum. Similar to MakerDAO's relationship with L4 Ventures in the the Stable Fund, Aragon Nest is sheparded by Placeholder VC (Chris Burniske & Joel Monegro). See the current [proposals for grants](https://github.com/aragon/nest/issues) and [requests for funding](https://github.com/aragon/nest/pulls).
+*Aragon Nest was [launched](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/) to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum. Similar to MakerDAO's relationship with L4 Ventures in the the Stable Fund, Aragon Nest is sheparded by Placeholder VC (Chris Burniske & Joel Monegro). See the current [proposals for grants](https://github.com/aragon/nest/issues) and [requests for funding](https://github.com/aragon/nest/pulls).*
 
 ### The Stable Fund
 https://stable.fund/
@@ -87,7 +87,7 @@ https://www.stellar.org/lumens/stellar-partnership-grant-program/
 ### The Request Fund
 https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43
 
-*Request Network has pledged $30 million (in $REQ & $ETH) over the next 5 years to the Request Fund for projects based around mobile apps to create, detect, and pay requests. See [here](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43) for a wishlist from the Request network team and the application form [here](https://request.network/#/request-for-projects).
+*Request Network has pledged $30 million (in $REQ & $ETH) over the next 5 years to the Request Fund for projects based around mobile apps to create, detect, and pay requests. See [here](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43) for a wishlist from the Request network team and the application form [here](https://request.network/#/request-for-projects).*
 
 ### NEM Community Fund
 https://nem.io/community-fund/
