@@ -8,11 +8,13 @@ Taking inspiration from Nadia Eghbal's list of [microgrants](https://github.com/
 2. Bounties
 3. Bug Bounties
 4. Crowdfunding
-5. Non-crypto-specific grants and fellowships
+5. Non-crypto-specific (but applicable) grants and fellowships
 
 --------
 
-## Grants
+## Foundations/Grants
+
+*Note: This list is loosely ordered from general funding to funding centred around specific protocols.*
 
 ### UNICEF Innovation Fund
 http://unicefstories.org/blockchaincall/
@@ -24,15 +26,20 @@ https://samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant
 
 *Samsung NEXT are offering grants ranging from $25k-75k to early-stage teams building decentralised technologies. Head directly to the application form [here](https://samsungnexteurope.typeform.com/to/DtpcWw).*
 
-### Ethereum Foundation 
-https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
+### Social Alpha Foundation
+https://www.socialalphafoundation.org/saf-grant/
 
-*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They fund projects that are committed to advancing the Ethereum ecosystem; a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
+*Co-founded by Jehan Chu of Kenetic Capital, Social Alpha Foundation offers grants ranging from $10k - 100,000k. There are two categories of grants: the education grant, which supports organizations, collectives and individuals that offer blockchain education with a focus on social impact and the application grant, for non-commercial blockchain applications that tackle social welfare issues with a focus on Public Health, Environment or Education.*
 
 ### Ethereum Community Fund
 https://ecf.network/
 
 *The Ethereum Community Fund is similar to the EF in that it wishes to advance the Ethereum ecosystem, however is backed by several founding members including Cosmos, OmiseGo, Maker, Golem, Web3 and Status. Typical grant amounts range from $10,000 to $100,000; in general, ECF will provide funding that will initially cover 6 months of runway. See previously funded ECF alumni [here](https://medium.com/ecf-review/meet-the-grantees-ecf-class-of-2018-part-ii-ff46a284a0b1). Interested parties can submit an application [here](https://docs.google.com/forms/d/e/1FAIpQLScJoqPd1VeBLtmjUm4Cde_H12uFjS_a1HkSd8czRhDFCQJCPQ/viewform).*
+
+### Ethereum Foundation 
+https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
+
+*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They fund projects that are committed to advancing the Ethereum ecosystem; a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
 
 ### Protocol Labs Request For Proposals (RFP) Program
 https://protocol.ai/blog/ann-research-rfp/
@@ -69,11 +76,6 @@ https://interchain.io/
 
 *The Interchain Foundation supports development around the Cosmos ecosystem. Currently, the foundation operates on an ad-hoc basis but will evolve into a fully-formed program towards the end of 2018, after the launch of the Cosmos Network.*
 
-### Social Alpha Foundation
-https://www.socialalphafoundation.org/saf-grant/
-
-*Co-founded by Jehan Chu of Kenetic Capital, Social Alpha Foundation offers grants ranging from $10k - 100,000k. There are two categories of grants: the education grant, which supports organizations, collectives and individuals that offer blockchain education with a focus on social impact and the application grant, for non-commercial blockchain applications that tackle social welfare issues with a focus on Public Health, Environment or Education.*
-
 ### Blockstack Public Benefit Corporation
 https://requestforsocialnetworks.com/
 
@@ -94,10 +96,25 @@ https://nem.io/community-fund/
 
 *As of September 2018, funding process is undergoing a restructure. The funding pool consists of ~300 million NEM ($28M at current prices) and is largely focused on the Asia-Pacific region.*
 
+### Bitcoin Development Grants
+https://bitcoindevelopmentgrant.com/en/
+
+*A $1.2M grant fund for Bitcoin protocol development supported by Bitmain, Xapo and many more crypto figureheads.*
+
 ### Polkadot Grants
 https://github.com/w3f/Web3-collaboration/blob/master/development.md
 
 *These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.*
+
+### Scuttlebut Grants
+https://github.com/ssbc/grants-process/blob/master/grants.md
+
+*$5k grants ($200k pledged) to support with the development of Scuttlebutt, fundeded by DFINITY.*
+
+### SmartCash SmartHive Governance Portal
+https://vote.smartcash.cc/home/gettingstarted
+
+*Over 10 million SMART available (~$2M USD) to fund projects contributing to the SmartCash ecosystem. SmartCash holders vote on projects to be funded.*
 
 -------
 
@@ -107,6 +124,11 @@ https://github.com/w3f/Web3-collaboration/blob/master/development.md
 http://ethprize.io/
 
 *Issuing bounties to solve the Ethereum ecosystem's biggest challenges. There are currently two bounties available, for $250k each.*
+
+### The Bounties Network
+https://explorer.bounties.network/explorer
+
+*An open-source, generalized platform for bounties across Ethereum*
 
 ### Status Open Bounty
 https://openbounty.status.im/
