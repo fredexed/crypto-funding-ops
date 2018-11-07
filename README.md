@@ -4,15 +4,13 @@ Taking inspiration from Nadia Eghbal's list of [microgrants](https://github.com/
 ---------
 ## Table of Contents
 
-1. Foundations/Grants
+1. Grants
 2. Bounties
-3. Bug Bounties
-4. Crowdfunding
-5. Non-crypto-specific (but applicable) grants and fellowships
+3. Non-crypto-specific (but applicable) Grants and Fellowships
 
 --------
 
-## Foundations/Grants
+## Grants
 
 *Note: This list is loosely ordered from general funding to funding centred around specific protocols.*
 
@@ -91,6 +89,11 @@ https://blog.request.network/request-network-project-update-january-19th-2018-an
 
 *Request Network has pledged $30 million (in $REQ & $ETH) over the next 5 years to the Request Fund for projects based around mobile apps to create, detect, and pay requests. See [here](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43) for a wishlist from the Request network team and the application form [here](https://request.network/#/request-for-projects).*
 
+### Monero Forum Funding System (FFS)
+https://forum.getmonero.org/8/funding-required
+
+*This could be classified as a "grant" but operates more as a crowdfunding mechanism: anybody can donate Monero towards these projects. Applicants must move through a multi-step and openly-vetted process. If the proposal is successfully granted, funds are held in escrow and disbursed to the recipient as specific milestones are met.*
+
 ### NEM Community Fund
 https://nem.io/community-fund/
 
@@ -134,22 +137,6 @@ https://explorer.bounties.network/explorer
 https://openbounty.status.im/
 
 *Status has an [active bounties platform](https://openbounty.status.im/app#/) that is supported by a $1m pledge in Nov 2017 to support projects and developers in the space.*
-
-------
-
-## Bug Bounties
-
-### Augur
-https://hackerone.com/augurproject
-
-------
-
-## Crowdfunding
-
-### Monero Forum Funding System (FFS)
-https://forum.getmonero.org/8/funding-required
-
-*This could be classified as a "grant" but operates more as a crowdfunding mechanism: anybody can donate Monero towards these projects. Applicants must move through a multi-step and openly-vetted process. If the proposal is successfully granted, funds are held in escrow and disbursed to the recipient as specific milestones are met.*
 
 ------
 
