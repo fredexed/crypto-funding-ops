@@ -12,7 +12,7 @@ Taking inspiration from Nadia Eghbal's list of [microgrants](https://github.com/
 
 ## Grants
 
-*Note: This list is loosely ordered from general funding to funding centred around specific protocols.*
+*Note: This list is loosely ordered from general funding to protocol-specific funding.*
 
 ### UNICEF Innovation Fund
 http://unicefstories.org/blockchaincall/
