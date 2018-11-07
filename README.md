@@ -90,6 +90,11 @@ https://nem.io/community-fund/
 
 *As of September 2018, funding process is undergoing a restructure. The funding pool consists of ~300 million NEM ($28M at current prices) and is largely focused on the Asia-Pacific region.*
 
+### Polkadot Grants
+https://github.com/w3f/Web3-collaboration/blob/master/development.md
+
+*These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision, a reality.*
+
 -------
 
 ## Bounties
