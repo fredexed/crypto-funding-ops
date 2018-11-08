@@ -164,3 +164,8 @@ https://lsvp.com/programs/summer-fellowship/
 https://www.shuttleworthfoundation.org/fellows/flash-grants/
 
 *Twice a year, the Shuttleworth Foundation award a number of small grants to a collection of social change agents, no strings attached, in support of their work. Recipients are selected based on nominations from our Fellows. Each award is worth $5,000.*
+
+### Emergent Ventures 
+https://www.mercatus.org/emergentventures
+
+*A new fellowship/grants program launched with a $1M grant from the Thiel Foundation. Funding is to be directed at high-risk, high-reward ideas that advance prosperity, opportunity, and wellbeing. Projects will either be fellowships or grants: fellowships involve time in residence at the Mercatus Center in Northern Virginia; grants are one-time or slightly staggered payments to support a project. See [here](https://marginalrevolution.com/marginalrevolution/2018/11/emergent-ventures-grant-recipients.html) for the recently funded first cohort.*
