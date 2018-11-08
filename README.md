@@ -109,7 +109,7 @@ https://github.com/w3f/Web3-collaboration/blob/master/development.md
 
 *These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.*
 
-### Scuttlebut Grants
+### Scuttlebutt Grants
 https://github.com/ssbc/grants-process/blob/master/grants.md
 
 *$5k grants ($200k pledged) to support with the development of Scuttlebutt, fundeded by DFINITY.*
