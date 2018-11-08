@@ -112,7 +112,7 @@ https://github.com/w3f/Web3-collaboration/blob/master/development.md
 ### Scuttlebutt Grants
 https://github.com/ssbc/grants-process/blob/master/grants.md
 
-*$5k grants ($200k pledged) to support with the development of Scuttlebutt, fundeded by DFINITY.*
+*$5k grants ($200k pledged) to support with the development of Scuttlebutt, funded by DFINITY.*
 
 ### SmartCash SmartHive Governance Portal
 https://vote.smartcash.cc/home/gettingstarted
